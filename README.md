@@ -6,6 +6,6 @@ In this project, we will be creating a shooter game. This game will have a varie
 Upon victory, you will collect cosmetics that will allow you to customize the different characters.
 
 ### License & copyright
-&copy; Isabel Salazar
+&copy; 2021 Isabel Salazar
 
 Licensed under the [MIT License](LICENSE)
