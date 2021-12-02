@@ -7,4 +7,5 @@ Upon victory, you will collect cosmetics that will allow you to customize the di
 
 ### License & copyright
 &copy; Isabel Salazar
+
 Licensed under the [MIT License](LICENSE)
