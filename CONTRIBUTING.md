@@ -1,4 +1,4 @@
-# Welcome to the Contributing Guidelines!
+# Welcome to the CS305_Module5_Repository Contributing Guidelines!
 Repository Owner: Isabel Salazar
 
 ## Guidelines:
