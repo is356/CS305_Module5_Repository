@@ -8,4 +8,5 @@ Upon victory, you will collect cosmetics that will allow you to customize the di
 #### License & copyright
 &copy; 2021 Isabel Salazar
 
-Licensed under the [MIT License](LICENSE)
+[MIT License](LICENSE)
+Changed by: Lane Dempsey
